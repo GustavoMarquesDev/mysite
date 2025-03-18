@@ -15,8 +15,8 @@ Siga os passos abaixo para rodar o projeto localmente.
 ### 1️⃣ Clone o repositório:
 
 ```sh
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/GustavoMarquesDev/mysite
+cd mysite
 ```
 
 ### 2️⃣ Crie um ambiente virtual e ative:
@@ -57,20 +57,14 @@ Digite um nome de usuário, e-mail e senha.
 python manage.py runserver
 ```
 
-Acesse o painel de administração em: [http://127.0.0.1:8000/admin](http://127.0.0.1:8000/admin)
+Acesse o painel de administração em: http://127.0.0.1:8000/admin](http://127.0.0.1:8000/admin
 
 ## 📝 Funcionalidades
 
 - Cadastro e gerenciamento de modelos via Django Admin
-- Personalização da interface do admin (se aplicável)
 - Exploração de permissões e grupos de usuários
 
 ## 📜 Licença
 
 Este projeto é apenas para fins de estudo. Fique à vontade para modificar e testar!
-
----
-
-Se precisar de ajuda ou quiser contribuir, fique à vontade para abrir uma issue ou um pull request! 🚀
-
 
