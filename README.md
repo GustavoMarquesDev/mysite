@@ -57,7 +57,7 @@ Digite um nome de usuário, e-mail e senha.
 python manage.py runserver
 ```
 
-Acesse o painel de administração em: (http://127.0.0.1:8000/admin)
+Acesse o painel de administração em: http://127.0.0.1:8000/admin
 
 ## 📝 Funcionalidades
 
